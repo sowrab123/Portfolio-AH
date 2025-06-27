@@ -53,12 +53,6 @@ const Contact = () => {
       url: 'https://www.hackerrank.com/profile/anower77',
       icon: <ExternalLink size={24} />,
       gradient: 'from-green-500 to-green-600'
-    },
-    {
-      name: 'Replit',
-      url: 'https://replit.com/@Anower77',
-      icon: <ExternalLink size={24} />,
-      gradient: 'from-orange-500 to-red-500'
     }
   ];
 

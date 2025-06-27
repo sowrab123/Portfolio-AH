@@ -64,7 +64,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400 flex items-center justify-center gap-2">
-            Made with <Heart size={16} className="text-red-500" /> by Anower Hossain © {currentYear}
+            Made with COMFORT by Anower Hossain © {currentYear}
           </p>
         </div>
       </div>

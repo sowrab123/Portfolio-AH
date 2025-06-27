@@ -1,4 +1,4 @@
-# Anower Hossain – Backend Engineer Portfolio 🌌
+# Portfolio 🌌
 
 Welcome to my personal portfolio! Explore my journey through programming, backend development, and problem-solving.
 
@@ -51,15 +51,10 @@ Click the **Download Resume** button on the homepage to download my resume in PD
 Here are some of my featured projects—click “View Details” on the website to explore further.
 
 ### 1. CP Platform  
-- **Backend API & Documentation**: [GitHub](https://github.com/Anower77/CP-Platform-Backend), [Live Docs](https://cp-platform-backend.vercel.app/docs)
 
 ### 2. Polling System  
-- **Frontend**: [GitHub](https://github.com/Anower77/polling-system-up) | [Live](https://polling-system-up.onrender.com/)  
-- **Backend**: same repo | [Live API](https://polling-system-up.onrender.com/polls/api/polls/)
 
 ### 3. Job Portal  
-- **Frontend**: [GitHub](https://github.com/Anower77/Job-Portal) | [Live](https://job-portal-4uvu.onrender.com/)  
-- **Backend**: same repo | [Live API](https://job-portal-4uvu.onrender.com/api/)
 
 Each project page includes a description, technology stack, GitHub links, live demo, and screenshots where available.
 

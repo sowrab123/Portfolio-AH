@@ -25,8 +25,8 @@ const ProjectDetail = () => {
         live: 'https://cp-platform-backend.vercel.app/docs'
       },
       images: [
-        'https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=800',
-        'https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=800'
+        'https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg',
+        'https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg'
       ]
     },
     'polling-system': {
@@ -49,8 +49,8 @@ const ProjectDetail = () => {
         api: 'https://polling-system-up.onrender.com/polls/api/polls/'
       },
       images: [
-        'https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=800',
-        'https://images.pexels.com/photos/590016/pexels-photo-590016.jpg?auto=compress&cs=tinysrgb&w=800'
+        'https://images.pexels.com/photos/18069694/pexels-photo-18069694.png',
+        'https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg'
       ]
     },
     'job-portal': {
@@ -74,8 +74,8 @@ const ProjectDetail = () => {
         api: 'https://job-portal-4uvu.onrender.com/api/'
       },
       images: [
-        'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800',
-        'https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=800'
+        'https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg',
+        'https://images.pexels.com/photos/18069694/pexels-photo-18069694.png'
       ]
     }
   };

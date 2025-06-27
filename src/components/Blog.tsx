@@ -7,25 +7,25 @@ const Blog = () => {
       title: 'Just Array',
       description: 'Deep dive into array data structures, operations, and optimization techniques for competitive programming.',
       gradient: 'from-blue-400 to-cyan-500',
-      url: 'https://hashnode.com/@Anower77'
+      url: 'https://anower77.hashnode.dev/just-array'
     },
     {
       title: 'Segment Tree',
       description: 'Understanding segment trees for efficient range queries and updates in competitive programming.',
       gradient: 'from-purple-400 to-pink-500',
-      url: 'https://hashnode.com/@Anower77'
+      url: 'https://anower77.hashnode.dev/segment-tree-1'
     },
     {
       title: 'Recursion & Backtracking',
       description: 'Mastering recursive algorithms and backtracking techniques for solving complex problems.',
       gradient: 'from-green-400 to-blue-500',
-      url: 'https://hashnode.com/@Anower77'
+      url: ' https://anower77.hashnode.dev/recursion-backtracking'
     },
     {
       title: 'Lower & Upper Bound',
       description: 'Binary search variations and bound finding techniques for efficient searching algorithms.',
       gradient: 'from-orange-400 to-red-500',
-      url: 'https://hashnode.com/@Anower77'
+      url: 'https://anower77.hashnode.dev/lower-upper-bound'
     }
   ];
 
